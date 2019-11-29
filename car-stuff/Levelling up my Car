@@ -1,0 +1,28 @@
+Levelling up my Car
+--------------------
+
+The idea here is that my Ford Focus is 2006 edition and quite shit.
+
+So since we are builders, lets build something that would level it up. (stop all the other cars from laughing at it.)
+
+So i propose building some functionality into a raspi that I will leave in the car and that will power up when the car turns on. 
+
+LEVEL UP IDEAS:
+	- build raspi to allow playing of audio through bluetooth or wifi to the car
+		- rasp pi play audio to car
+		- rasp pi accept BT
+		- rasp pi accept WiFi
+		- rasp pi channel audio through above to play audio
+	- connect OBDII to raspi so we can mess with onboard car computer through connecting to raspi pi
+
+
+========================
+Getting the raspi setup:
+
+enabled ssh access.
+
+details: root qqq
+		 pi asuperWierdpASS
+
+=========================
+Playing audio to car..
